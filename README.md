@@ -1,2 +1,2 @@
 # Python
-Python projects
+Python projects written while learning Python
